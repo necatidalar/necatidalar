@@ -13,5 +13,9 @@
 [👻 Snapchat](https://www.snapchat.com/add/necatidalar)  
 
 💡 **İstatistikler & Analizler**  
+
+## 📈 GitHub Stats
+![Necati's GitHub stats](https://github-readme-stats.vercel.app/api?username=necatidalar&show_icons=true&theme=radical)
 ![Visitor Count](https://komarev.com/ghpvc/?username=kullaniciadiniz&color=blue&style=flat-square)  
 🎯 Her gün yeni şeyler öğrenmeye ve geliştirmeye devam ediyorum!
+"Kod mizah gibidir. Açıklamak zorunda kaldığınızda kötüdür."
