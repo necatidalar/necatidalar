@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Merhaba, ben Necati Dalar!
 
-<!--
-**necatidalar/necatidalar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📬 **Bana Ulaşın**  
+- 📫 Email: **necatidalar5@gmail.com**  
+- 🌍 [Kişisel Web Sitem](http://necatidalar.wuaze.com/)  
 
-Here are some ideas to get you started:
+🌐 **Sosyal Medya Hesaplarım**  
+[🐦 Twitter](https://twitter.com/necatidalar_)  
+[📸 Instagram](https://www.instagram.com/necatidalar_)  
+[📸 Instagram (İkinci Hesap)](https://www.instagram.com/necatii362)  
+[🎥 YouTube](https://www.youtube.com/@necatidalar5)  
+[📘 Facebook](https://www.facebook.com/Necatidalar1905)  
+[👻 Snapchat](https://www.snapchat.com/add/necatidalar)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **İstatistikler & Analizler**  
+![Visitor Count](https://komarev.com/ghpvc/?username=kullaniciadiniz&color=blue&style=flat-square)  
+🎯 Her gün yeni şeyler öğrenmeye ve geliştirmeye devam ediyorum!
