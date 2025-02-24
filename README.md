@@ -15,4 +15,5 @@
 💡 **İstatistikler & Analizler**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=kullaniciadiniz&color=blue&style=flat-square)  
 🎯 Her gün yeni şeyler öğrenmeye ve geliştirmeye devam ediyorum!
+
 "Kod mizah gibidir. Açıklamak zorunda kaldığınızda kötüdür."
